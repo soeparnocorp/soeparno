@@ -1,7 +1,7 @@
 {
-  "name": "@arthelokyo/astrowind",
+  "name": "soeparnocorp",
   "version": "1.0.0-beta.66",
-  "description": "AstroWind: A free template using Astro 7 and Tailwind CSS v4. Astro starter theme.",
+  "description": "SOEPARNO ENTERPRISE Corp.",
   "type": "module",
   "private": true,
   "engines": {
