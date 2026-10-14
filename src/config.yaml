@@ -1,6 +1,6 @@
 site:
   name: SOEPARNO ENTERPRISE
-  site: 'https://soeparnocorp.workers.dev'
+  site: 'https://soeparnocorp.pages.dev'
   base: '/'
   trailingSlash: false
 
